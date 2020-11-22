@@ -77,7 +77,7 @@ function draw() {
  
   drawSprites();
  
-  background(0);//255,255,255
+  background(255,255,255);//
  
   stage1.display();  
   stage2.display();  
